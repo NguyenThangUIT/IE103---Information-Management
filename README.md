@@ -1,1 +1,2 @@
-# IE103---Qu-n-l-th-ng-tin---HK2-n-m-2
+# Đây là môn mình được học vào kì 2 của năm 2, cũng là một trong những môn cơ sở ngành đầu tiên bản thân có trải nghiệm làm một đồ án.
+<p> Repo này bao gồm toàn bộ quá trình học của mình, từ những buổi thực hành và đến đồ án </p>
